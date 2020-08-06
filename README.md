@@ -36,7 +36,6 @@ El software libre son los programas informáticos donde los códigos son accesib
 
 Fig 1. Arduino.
 
-
 ¿Como funciona?
 
 Este elemento electrónico es una placa basada en un microcontrolador ATMEL, los micocontroladores son circuitos en los cuales se pueden indicar instrucciones , pero eso se lo hace con lenguaje de programación donde utilizamos el enterno Arduino IDE. Esas instrucciones son las que nos permiten crear programas que interactúen con los circuitos dentro de la placa.
@@ -49,6 +48,13 @@ También cuenta con una interfaz de salida, que es la que se encarga de llevar l
 
 Fig 2. Funncionamiento del Arduino.
 
+¿Que es un LCD?
+
+Es una pantalla plana que contiene un liquido entre dos placas de vidrio , por esta pasa una corriente electrica en una zona determinada , para asi contrarestar la claridad que esta pueda tener, es decir se vuelve opaca y tiene iluminación trasera.
+
+Estas son de color, cada pixel individual se divide en tres secciones o sub pixeles con los colores RGB (rojo, verde y azul), entonces cada pixel puede producir la variedad cualquiera de combinaciones de colores. 
+
+Caracteristicas de un LCD.
 
 
 
