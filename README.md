@@ -56,10 +56,27 @@ Estas son de color, cada pixel individual se divide en tres secciones o sub pixe
 
 Caracteristicas de un LCD.
 
+En la actualidad existen gran variedad de proyectos con los LCD, por lo que combinar y crear a partir de sus caracteristicas es muy importante , así estas en una buena combinación, pueden crear un gran trabajo.
 
+Tamaño:
+
+El tamaño de un panel LCD generalmente se mide a lo lardo de su diagonal, expresado generalmente en pulgadas. Sin embargo existen más características que pueden describir las dimensiones aproximadas, como por ejemplo la LCD 16×2 se refiere a que tiene la capacidad de tener al mismo tiempo 16 caracteres de manera horizontal en y dos de manera vertical.
+
+Resolución:
+
+Esta se expresa con las dimensiones horizontal y vertical. las pantallas HD tienen una resolución de 1920×1080 por ejemplo. Y esta puede alcanzar con esta resolución una gran variedad de tamaño, pero si no se ocupa gran a gran detalle esta, estarías desperdiciando calidad (por no utilizar algo que tienes disponible).
+
+Brillo:
+
+La luminosidad de la pantalla también es importante analizarla, ya que según la aplicación en la que se encuentre esta, requerirá más luz para poder apreciarse, o viceversa. Por lo que la mayoría cuentan con una luz trasera y la posibilidad de poder controlar su luminosidad.
+
+Contraste:
+
+Es la relación entre la intensidad más brillante y la más oscura.
+
+Por último los tamaños estándar que tienen los LCD son: 16×2, 20×4, 8×2.
 
 ## *PROCEDIMIENTO*
-*CON EL SENSOR*
 
 1. Entrar al programa en linea de tinkercad y colocar todos los materiales que vamos a utilizar:
 
@@ -77,25 +94,6 @@ Caracteristicas de un LCD.
 
 ![alt text](https://github.com/Kevi7k/Trabajo-Extra/blob/master/im%C3%A1genes/Paso%204.png)
 
-*CON EL ACTUADOR*
-
-1. Entrar al programa en linea de tinkercad y colocar los materiales a utilizar:
-
-![alt text](https://github.com/Kevi7k/Trabajo-Extra/blob/master/im%C3%A1genes/paso%201.1.png)
-
-2. Armar el cirucito:
-
-![alt text](https://github.com/Kevi7k/Trabajo-Extra/blob/master/im%C3%A1genes/paso%202.1.png)
-
-3. Colocar el códigco respectivo , para su programación:
-
-![alt text](https://github.com/Kevi7k/Trabajo-Extra/blob/master/im%C3%A1genes/paso%203.1.png)
-
-4.Comprobar su funcionamiento
-
-![alt text](https://github.com/Kevi7k/Trabajo-Extra/blob/master/im%C3%A1genes/paso%204.1.png)
-
-
 
 ## *DIAGRAMA*
 *CON EL SENSOR*
@@ -104,11 +102,6 @@ Caracteristicas de un LCD.
 
 Fig 3-Circuito Simulado en tinkercad
 
-*CON EL ACTUADOR*
-
-![alt text](https://github.com/Kevi7k/Trabajo-Extra/blob/master/im%C3%A1genes/diagrama%201.1.png)
-
-Fig 4-Circuito Simulado en tinkercad
 
 
 ## *EXPLICACIÓN DEL CIRCUITO*
@@ -117,9 +110,9 @@ Fig 4-Circuito Simulado en tinkercad
 
 ## *CONCLUSIONES*
 
-- Al momento que la distancia ultrasónica era mas amplia con respecto al sensor, los lEDS empezaban a apagarse.
+- Al realizar esta practica, se puede decir que esta es muy importante, como base para tener un concepto o idea de como la programación se mezcla con la electrónica.
 
-- Se pudo notar la gran importancia de este dispositivo electrónico que nos puede llegar a hacer muchos proyectos mas interesantes.
+- Se pudo notar la gran importancia de este dispositivo electrónico (Arduino) combinado con la LCDque nos puede llegar a hacer muchos proyectos mas interesantes.
 
 ## *RECOMENDACIONES*
 - Seguir paso a paso las indicaciones de la página web , para así realizar un buen trabajo.
