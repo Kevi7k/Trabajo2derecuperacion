@@ -16,11 +16,11 @@ Esta práctica trata de comprender el funcionamiento sobre un elemento electrón
 | Cantidad | Material de Equipo |
 | ------------- | ------------- |
 | 1  | Arduino |
-|  3 | Resistor de 220  |
-|  3 | LED    |
+|  1 | Resistor de 220  |
+|  1 | LED    |
 | 1  | Protoboard      |
-| 1  | Sensor ultrásonico| 
-|1   | Piezo  |
+| 1  | LCD      |
+| 1  | Potenciómetro     |
 ## *MARCO TEÓRICO*
 ¿Que es Ardiuno?
 
@@ -54,6 +54,10 @@ Es una pantalla plana que contiene un liquido entre dos placas de vidrio , por e
 
 Estas son de color, cada pixel individual se divide en tres secciones o sub pixeles con los colores RGB (rojo, verde y azul), entonces cada pixel puede producir la variedad cualquiera de combinaciones de colores. 
 
+![alt text](https://github.com/Kevi7k/Trabajo2derecuperacion/blob/master/Imagenes/display2x16.png)
+
+Fig 3. LCD
+
 Caracteristicas de un LCD.
 
 En la actualidad existen gran variedad de proyectos con los LCD, por lo que combinar y crear a partir de sus caracteristicas es muy importante , así estas en una buena combinación, pueden crear un gran trabajo.
@@ -76,37 +80,37 @@ Es la relación entre la intensidad más brillante y la más oscura.
 
 Por último los tamaños estándar que tienen los LCD son: 16×2, 20×4, 8×2.
 
+![alt text](https://github.com/Kevi7k/Trabajo2derecuperacion/blob/master/Imagenes/caracteristicas%20LCD.png)
+
+Fig 4. Caracteristicas de un LCD
 ## *PROCEDIMIENTO*
 
 1. Entrar al programa en linea de tinkercad y colocar todos los materiales que vamos a utilizar:
 
-![alt text](https://github.com/Kevi7k/Trabajo-Extra/blob/master/im%C3%A1genes/Paso%201.png)
+![alt text](https://github.com/Kevi7k/Trabajo2derecuperacion/blob/master/Imagenes/LCD1.png)
 
 2.Armar el circuito:
 
-![alt text](https://github.com/Kevi7k/Trabajo-Extra/blob/master/im%C3%A1genes/Paso%202.png)
+![alt text](https://github.com/Kevi7k/Trabajo2derecuperacion/blob/master/Imagenes/LCD2.png)
 
 3.Colocar el código respectivo, para su programación:
 
-![alt text](https://github.com/Kevi7k/Trabajo-Extra/blob/master/im%C3%A1genes/Paso%203.png)
+![alt text](https://github.com/Kevi7k/Trabajo2derecuperacion/blob/master/Imagenes/LCD3.png)
 
 4.Comprobar su funcionamiento
 
-![alt text](https://github.com/Kevi7k/Trabajo-Extra/blob/master/im%C3%A1genes/Paso%204.png)
+![alt text](https://github.com/Kevi7k/Trabajo2derecuperacion/blob/master/Imagenes/LCD4.png)
 
 
 ## *DIAGRAMA*
-*CON EL SENSOR*
 
-![alt text](https://github.com/Kevi7k/Trabajo-Extra/blob/master/im%C3%A1genes/diagrama..png)
+![alt text](https://github.com/Kevi7k/Trabajo2derecuperacion/blob/master/Imagenes/Diagrama.png)
 
-Fig 3-Circuito Simulado en tinkercad
-
+Fig 5. Circuito Simulado en tinkercad
 
 
 ## *EXPLICACIÓN DEL CIRCUITO*
-
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Para una explicación totalmente detallada diríjase al siguiente enlace https://www.youtube.com/watch?v=JsLtotmFYs8&t=2s
 
 ## *CONCLUSIONES*
 
@@ -115,6 +119,6 @@ Fig 3-Circuito Simulado en tinkercad
 - Se pudo notar la gran importancia de este dispositivo electrónico (Arduino) combinado con la LCDque nos puede llegar a hacer muchos proyectos mas interesantes.
 
 ## *RECOMENDACIONES*
-- Seguir paso a paso las indicaciones de la página web , para así realizar un buen trabajo.
+- Seguir paso a paso las indicaciones establecidas , para así realizar un buen trabajo.
 
 - Poner en practica la teoría de clases para así relacionarlo con esta practica.
