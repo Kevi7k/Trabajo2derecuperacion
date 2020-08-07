@@ -106,7 +106,7 @@ Fig 4. Caracteristicas de un LCD
 
 ![alt text](https://github.com/Kevi7k/Trabajo2derecuperacion/blob/master/Imagenes/Diagrama.png)
 
-Fig 5. Circuito Simulado en tinkercad
+Fig 5. Diagrama Modelo para controlar un LCD
 
 
 ## *EXPLICACIÓN DEL CIRCUITO*
@@ -116,7 +116,7 @@ Para una explicación totalmente detallada diríjase al siguiente enlace https:/
 
 - Al realizar esta practica, se puede decir que esta es muy importante, como base para tener un concepto o idea de como la programación se mezcla con la electrónica.
 
-- Se pudo notar la gran importancia de este dispositivo electrónico (Arduino) combinado con la LCDque nos puede llegar a hacer muchos proyectos mas interesantes.
+- Se pudo notar la gran importancia de este dispositivo electrónico (Arduino) combinado con la LCD que nos puede llegar a hacer muchos proyectos mas interesantes.
 
 ## *RECOMENDACIONES*
 - Seguir paso a paso las indicaciones establecidas , para así realizar un buen trabajo.
