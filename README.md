@@ -118,6 +118,8 @@ Para una explicación totalmente detallada diríjase al siguiente enlace https:/
 
 - Se pudo notar la gran importancia de este dispositivo electrónico (Arduino) combinado con la LCD que nos puede llegar a hacer muchos proyectos mas interesantes.
 
+- Esta practica, va mas allá de lo aprendido en clase, por lo que es un trabajo extra muy interesante para querer aprender más.
+
 ## *RECOMENDACIONES*
 - Seguir paso a paso las indicaciones establecidas , para así realizar un buen trabajo.
 
